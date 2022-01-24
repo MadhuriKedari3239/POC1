@@ -1,0 +1,32 @@
+CORE JAVA LAB EXERCISE STAGE-1
+
+3. Initialize On Object Creation
+i. Create a class Car which contains wheels and model as Instance variables.
+ii. Initialize the number of wheels of the car at the time of creating the Object of the car and assign the model of the car to the model variable and print the model after creating the object of the car class(not at the time of creating the object).
+Answer:-
+class Car 
+{
+	void print(int wheels,String model)
+	{
+	System.out.println("No of Wheels : "+wheels);
+	System.out.println("No of Wheels : "+model);
+	}
+}
+class Mainclass
+{
+          public static void main(String[] args) 
+	{
+                      Car c=new Car();
+		c.print(4,"FORD");
+	}
+}
+
+Output:-
+No of Wheels : 4
+No of Wheels : FORD
+
+ 
+
+
+
+
