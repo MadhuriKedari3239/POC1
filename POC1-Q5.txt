@@ -1,6 +1,4 @@
-CORE JAVA LAB EXERCISE STAGE-1
 
-5. Find the output and write explanation?
     class Main {
             public static void main(String[] args) {
             int t;
