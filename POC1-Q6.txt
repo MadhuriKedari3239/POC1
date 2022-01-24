@@ -1,6 +1,4 @@
-CORE JAVA LAB EXERCISE STAGE-1
 
-6. Find the output and write explanation?
 class Test {
 public static void main(String[] args) {
 byte b = 127;
