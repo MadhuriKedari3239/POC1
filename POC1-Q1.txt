@@ -1,8 +1,4 @@
-CORE JAVA LAB EXERCISE STAGE-1
-1. Concept of Class and Object:
-i. Write a program to create ‘Student’ class with rollNo and name as two instance variables.
-ii. Create two objects student1, student2 for the Student class and assign any appropriate values to the objects. Display the Object content on a Console.
-Answer:-
+
 class Student 
 {
 		int rollno=10;
